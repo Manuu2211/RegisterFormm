@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RegisterFormm/static/css/main.48022912.css",
+    "main.js": "/RegisterFormm/static/js/main.6c0fa504.js",
+    "static/js/787.f055211e.chunk.js": "/RegisterFormm/static/js/787.f055211e.chunk.js",
+    "static/media/logo.svg": "/RegisterFormm/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/RegisterFormm/index.html",
+    "main.48022912.css.map": "/RegisterFormm/static/css/main.48022912.css.map",
+    "main.6c0fa504.js.map": "/RegisterFormm/static/js/main.6c0fa504.js.map",
+    "787.f055211e.chunk.js.map": "/RegisterFormm/static/js/787.f055211e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48022912.css",
+    "static/js/main.6c0fa504.js"
+  ]
+}
